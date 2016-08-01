@@ -1,0 +1,97 @@
+[29-Feb-2016 10:05:19 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '/home/dojang/public_html/../../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 22
+[29-Feb-2016 10:06:35 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '/../../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:07:12 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:07:42 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:07:49 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:32:04 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:35:37 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:38:10 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:38:26 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:38:33 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[29-Feb-2016 10:41:03 Pacific/Auckland] PHP Fatal error:  require(): Failed opening required '../../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dojang/public_html/index.php on line 24
+[16-May-2016 15:14:16 Pacific/Auckland] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::editRank() in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 398
+[16-May-2016 15:15:00 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '',pattern_id,pattern_group_id,' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 409
+[16-May-2016 15:15:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '',pattern_id,pattern_group_id,' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 409
+[16-May-2016 15:15:21 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\PatternGroup' not found in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 334
+[16-May-2016 15:37:10 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ''rank_group_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 349
+[16-May-2016 15:51:53 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/dojang/laravel/storage/framework/views/ec295d14488ee96a45376450ec3f2129 on line 47
+[18-May-2016 14:24:23 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\MartialArt' not found in /home/dojang/laravel/app/Http/Controllers/AdminController.php on line 339
+[20-May-2016 10:12:29 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class App\models\GradingRequirement in /home/dojang/laravel/app/models/GradingRankRequirement.php on line 10
+[20-May-2016 11:16:44 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\Syllabus' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 44
+[20-May-2016 13:30:01 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/8e0d51b43815c9b47ef34b5a78a13071 on line 47
+[20-May-2016 13:30:20 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/8e0d51b43815c9b47ef34b5a78a13071 on line 47
+[20-May-2016 14:14:46 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\RankSyllabus' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 84
+[23-May-2016 12:19:16 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/8e0d51b43815c9b47ef34b5a78a13071 on line 21
+[23-May-2016 12:19:45 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/8e0d51b43815c9b47ef34b5a78a13071 on line 21
+[23-May-2016 12:19:52 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/8e0d51b43815c9b47ef34b5a78a13071 on line 21
+[23-May-2016 14:48:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ']' in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 84
+[24-May-2016 11:41:52 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 72
+[24-May-2016 11:48:40 Pacific/Auckland] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::orderBy() in /home/dojang/laravel/storage/framework/views/33bbb5c740cf4cc1603f1baa43576104 on line 27
+[24-May-2016 14:31:14 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 49
+[24-May-2016 15:43:34 Pacific/Auckland] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SyllabusController::viewSyllabus() in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 101
+[24-May-2016 15:44:08 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 103
+[24-May-2016 15:45:06 Pacific/Auckland] PHP Fatal error:  Call to undefined function App\Http\Controllers\viewStudentSyllabus() in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 105
+[24-May-2016 15:45:37 Pacific/Auckland] PHP Fatal error:  Call to undefined function App\Http\Controllers\viewStudentSyllabus() in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 105
+[24-May-2016 15:58:24 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 10:38:00 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 41
+[25-May-2016 11:11:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '/' in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 49
+[25-May-2016 11:22:43 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:22:43 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:22:50 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:22:51 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:22:54 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:22:55 Pacific/Auckland] PHP Fatal error:  Call to a member function getImgSrc() on a non-object in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 16
+[25-May-2016 11:29:33 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/dojang/laravel/storage/framework/views/05340177a956136e4218e994d31b84b6 on line 75
+[25-May-2016 11:38:37 Pacific/Auckland] PHP Fatal error:  Call to a member function currentRank() on a non-object in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 114
+[25-May-2016 16:07:15 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/dojang/public_html/mailchimp.php on line 16
+[25-May-2016 16:07:19 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/dojang/public_html/mailchimp.php on line 16
+[25-May-2016 16:08:16 Pacific/Auckland] PHP Fatal error:  Cannot access empty property in /home/dojang/public_html/mailchimp.php on line 16
+[25-May-2016 16:10:07 Pacific/Auckland] PHP Fatal error:  Cannot use [] for reading in /home/dojang/public_html/mailchimp.php on line 16
+[26-May-2016 12:11:47 Pacific/Auckland] PHP Fatal error:  Function name must be a string in /home/dojang/public_html/mailchimp.php on line 259
+[26-May-2016 12:11:50 Pacific/Auckland] PHP Fatal error:  Function name must be a string in /home/dojang/public_html/mailchimp.php on line 259
+[26-May-2016 12:11:53 Pacific/Auckland] PHP Fatal error:  Function name must be a string in /home/dojang/public_html/mailchimp.php on line 259
+[26-May-2016 12:17:36 Pacific/Auckland] PHP Fatal error:  Call to a member function execute() on a non-object in /home/dojang/public_html/mailchimp.php on line 249
+[26-May-2016 12:57:04 Pacific/Auckland] PHP Fatal error:  Call to a member function execute() on a non-object in /home/dojang/public_html/mailchimp.php on line 249
+[31-May-2016 13:30:22 Pacific/Auckland] PHP Fatal error:  Call to a member function getDisplayName() on a non-object in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 118
+[31-May-2016 14:25:20 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\UserRankSyllabus' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 134
+[31-May-2016 14:25:42 Pacific/Auckland] PHP Fatal error:  Class 'App\models\UserRankSyllabus' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 135
+[31-May-2016 14:26:02 Pacific/Auckland] PHP Fatal error:  Class 'App\models\UserRakSyllabus' not found in /home/dojang/laravel/app/models/UserRankSyllabus.php on line 47
+[01-Jun-2016 09:08:09 Pacific/Auckland] PHP Fatal error:  Call to a member function syllabusRequirement() on a non-object in /home/dojang/laravel/app/Http/Controllers/ReportController.php on line 293
+[01-Jun-2016 09:23:03 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 56
+[01-Jun-2016 09:23:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 56
+[01-Jun-2016 11:19:00 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\UserPatternSyllabus' not found in /home/dojang/laravel/app/Http/Controllers/SyllabusController.php on line 146
+[01-Jun-2016 11:53:13 Pacific/Auckland] PHP Fatal error:  Class 'App\UserPatternSyllabus' not found in /home/dojang/laravel/app/User.php on line 444
+[01-Jun-2016 12:07:22 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\Pattern' not found in /home/dojang/laravel/app/Http/Controllers/ReportController.php on line 288
+[01-Jun-2016 12:08:59 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 52
+[01-Jun-2016 12:10:03 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 52
+[01-Jun-2016 13:02:28 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:03:01 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:03:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:03:26 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:04:12 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:04:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:05:29 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 55
+[01-Jun-2016 13:18:26 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 54
+[01-Jun-2016 13:48:49 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dojang/laravel/storage/framework/views/e003f7854e1e98b97e9b902259fd2455 on line 74
+[01-Jun-2016 16:01:56 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ':' in /home/dojang/laravel/storage/framework/views/33bbb5c740cf4cc1603f1baa43576104 on line 71
+[02-Jun-2016 10:27:41 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:27:42 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:27:47 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:27:48 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:27:48 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:27:49 Pacific/Auckland] PHP Fatal error:  Class '\App\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 126
+[02-Jun-2016 10:57:44 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '/' in /home/dojang/laravel/storage/framework/views/0276de599c4bcd7422b768aeebf5928f on line 30
+[02-Jun-2016 15:39:25 Pacific/Auckland] PHP Fatal error:  Class 'Carbon' not found in /home/dojang/laravel/storage/framework/views/0276de599c4bcd7422b768aeebf5928f on line 31
+[16-Jul-2016 11:26:16 Pacific/Auckland] PHP Fatal error:  Class 'App\Http\Controllers\Slim' not found in /home/dojang/laravel/app/Http/Controllers/ClubController.php on line 243
+[16-Jul-2016 11:26:54 Pacific/Auckland] PHP Fatal error:  Class 'App\models\SlimServer\slim' not found in /home/dojang/laravel/app/Http/Controllers/ClubController.php on line 244
+[18-Jul-2016 11:32:49 Pacific/Auckland] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/dojang/laravel/storage/framework/views/9149732ceeda0a8a1aab57942d40a047 on line 37
+[18-Jul-2016 11:40:47 Pacific/Auckland] PHP Fatal error:  Class 'Carbon' not found in /home/dojang/laravel/storage/framework/views/9149732ceeda0a8a1aab57942d40a047 on line 37
+[26-Jul-2016 14:09:47 Pacific/Auckland] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 128712704 bytes) in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 30
+[26-Jul-2016 14:09:51 Pacific/Auckland] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 128712704 bytes) in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 30
+[26-Jul-2016 14:10:17 Pacific/Auckland] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 128712704 bytes) in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 30
+[26-Jul-2016 14:31:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE) in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 30
+[26-Jul-2016 14:31:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE) in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 30
+[26-Jul-2016 15:39:23 Pacific/Auckland] PHP Fatal error:  Class 'App\models\User' not found in /home/dojang/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 734
+[27-Jul-2016 16:29:49 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '{' in /home/dojang/laravel/storage/framework/views/d47dd53b635d0baa221ead3cf58f6d34 on line 2
+[28-Jul-2016 13:19:00 Pacific/Auckland] PHP Fatal error:  Call to a member function getDisplayName() on a non-object in /home/dojang/laravel/app/Http/Controllers/AjaxController.php on line 388
+[28-Jul-2016 15:51:42 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/dojang/laravel/app/Http/Controllers/AjaxController.php on line 393

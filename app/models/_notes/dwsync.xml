@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Role.php" server="199.167.200.8/public_html/" local="130816608406556147" remote="130816608000000000" Dst="1" />
+<file name="Club.php" server="199.167.200.8/public_html/" local="130816521189347608" remote="130816521000000000" Dst="1" />
+<file name="permissions.php" server="199.167.200.8/public_html/" local="130816557000000000" remote="130816557000000000" Dst="1" />
+<file name="Permissions.php" server="199.167.200.8/public_html/" local="130816613857817941" remote="130816613400000000" Dst="1" />
+<file name="Role_permissions.php" server="199.167.200.8/public_html/" local="130816557000000000" remote="130816557000000000" Dst="1" />
+<file name="User_role.php" server="199.167.200.8/public_html/" local="130816557000000000" remote="130816557000000000" Dst="1" />
+<file name="RolePermissions.php" server="199.167.200.8/public_html/" local="130816653656734309" remote="130816653600000000" Dst="1" />
+<file name="UserRole.php" server="199.167.200.8/public_html/" local="130816561949368947" remote="130816561800000000" Dst="1" />
+<file name="ClubMeta.php" server="199.167.200.8/public_html/" local="130822023100629328" remote="130822023000000000" Dst="1" />
+<file name="UserAttendance.php" server="199.167.200.8/public_html/" local="130854711444702478" remote="130854711000000000" Dst="1" />
+<file name="Club.php" server="199.167.200.8" local="131092272000000000" remote="131092272000000000" Dst="1" />
+<file name="Training.php" server="199.167.200.8" local="131140639445739946" remote="131140639200000000" Dst="1" />
+<file name="TrainingDate.php" server="199.167.200.8" local="131132666989586581" remote="131132667000000000" Dst="1" />
+<file name="TrainingSchedule.php" server="199.167.200.8" local="131132669622687186" remote="131132669400000000" Dst="1" />
+<file name="TrainingDateSessionInstructor.php" server="199.167.200.8" local="131132675777499221" remote="131132675400000000" Dst="1" />
+<file name="TrainingDateInstructor.php" server="199.167.200.8" local="131132675882465224" remote="131132675400000000" Dst="1" />
+<file name="ClubStream.php" server="199.167.200.8" local="131140851050633054" remote="131140851000000000" Dst="1" />
+<file name="ClubMembers.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="Rank.php" server="199.167.200.8" local="131141522877039326" remote="131141522400000000" Dst="1" />
+<file name="ClubStructure.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="RankGroup.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="RankAttendance.php" server="199.167.200.8" local="131092237800000000" remote="131092237800000000" Dst="1" />
+<file name="ClubMeta.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="Pattern.php" server="199.167.200.8" local="131086065000000000" remote="131086065000000000" Dst="1" />
+<file name="ClubTrainingTime.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="ClubTrainingTimes.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="Syllabus.php" server="199.167.200.8" local="131086027800000000" remote="131086027800000000" Dst="1" />
+<file name="ClubMembershipStream.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+<file name="UserMembership.php" server="199.167.200.8" local="131009267400000000" remote="131009267400000000" Dst="1" />
+</dwsync>

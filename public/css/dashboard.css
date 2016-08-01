@@ -1,0 +1,82 @@
+.publicTop
+{
+position:absolute;
+top:0;
+height:100px;
+width:100%;
+background:#333;
+opacity:0.8;	
+}
+.publicTop h1
+{
+color:#FFF;
+text-align:center;	
+}
+.add-panel
+{
+margin-top:10%;	
+}
+.row{max-width:100%;}
+.padTop{height:100px;}
+.navWrap
+{
+background-color:#fff;	
+opacity:0.9;
+}
+.fullHeight
+{
+height:100%	
+}
+
+#contentWrapper
+{
+margin: 30px;
+padding:30px;
+background-color: #ffffff;
+border: 1px solid black;
+border-radius: 10px;
+opacity:0.9;
+}
+.hide{display:none;}
+@media only screen and (max-width: 40em) {
+	.row.small-uncollapse>.column, .row.small-uncollapse>.columns, .column, .columns
+	{
+		padding-left:0;
+		padding-right:0;
+		margin-bottom:5px;
+	}
+	#contentWrapper
+	{
+		margin:0;
+		padding:5px;	
+	}
+	.row .row
+	{
+	margin:0;	
+	}
+}
+.classStream
+{
+padding: 10px;
+background-color: #EEE;
+border: 1px solid black;
+border-radius: 10px;
+opacity: 0.9;	
+margin-bottom:10px;
+}
+.pointer
+{
+cursor:pointer;	
+}
+.attendanceTimeWrapper .classStream,.attendanceTimeWrapper .classStream:last-child
+{
+float:left;	
+margin-left:10px;
+}
+.c3 svg,.c3-legend-item {
+    font: 14px sans-serif;
+}
+td .button
+{
+margin:0.25em;	
+}

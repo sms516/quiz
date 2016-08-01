@@ -1,0 +1,18 @@
+.publicTop
+{
+position:absolute;
+top:0;
+height:100px;
+width:100%;
+background:#333;
+opacity:0.8;	
+}
+.publicTop h1
+{
+color:#FFF;
+text-align:center;	
+}
+.login-panel
+{
+margin-top:35%;	
+}
